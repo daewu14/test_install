@@ -1,1 +1,1 @@
-module test_install
+module github.com/daewu14/test_install
